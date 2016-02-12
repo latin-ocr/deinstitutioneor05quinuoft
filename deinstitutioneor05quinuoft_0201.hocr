@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinstitutioneor05quinuoft_0201.png"; bbox 0 0 1721 2974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 730 1422 809">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 730 1422 809">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 730 1422 809; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 340 730 1422 809; x_wconf 82' lang='lat' dir='ltr'><strong>SUPPLEMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 927 1612 981">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 927 1612 981">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 927 1612 981; baseline -0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 148 929 697 981; x_wconf 87' lang='lat' dir='ltr'><strong>EDITIONIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 773 927 1612 981; x_wconf 74' lang='lat' dir='ltr'><strong>SPALDING-IANAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 1097 1274 1150">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 1097 1274 1150">
+     <span class='ocr_line' id='line_1_3' title="bbox 482 1097 1274 1150; baseline -0.003 -17"><span class='ocrx_word' id='word_1_4' title='bbox 482 1097 665 1150; x_wconf 76' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 713 1100 1138 1134; x_wconf 74' lang='lat' dir='ltr'>PERTINENT</span> <span class='ocrx_word' id='word_1_6' title='bbox 1187 1099 1274 1132; x_wconf 78' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 710 1248 1053 1299">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 710 1248 1053 1299">
+     <span class='ocr_line' id='line_1_4' title="bbox 710 1248 1053 1299; baseline -0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 710 1249 915 1299; x_wconf 85' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 969 1248 1053 1297; x_wconf 89' lang='lat' dir='ltr'><strong>II.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
